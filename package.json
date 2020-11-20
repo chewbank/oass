@@ -1,0 +1,10 @@
+{
+  "name": "@chewbank/oass",
+  "version": "1.0.6",
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
